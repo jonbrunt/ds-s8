@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="g4c2d9594d1a1cb130f9f094fa0b6266e" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
+  <metadata>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.1.0</schemaversion>
+    <lomimscc:lom>
+      <lomimscc:general>
+        <lomimscc:title>
+          <lomimscc:string>DS Unit 2 Sprint 8</lomimscc:string>
+        </lomimscc:title>
+      </lomimscc:general>
+      <lomimscc:lifeCycle>
+        <lomimscc:contribute>
+          <lomimscc:date>
+            <lomimscc:dateTime>2025-02-26</lomimscc:dateTime>
+          </lomimscc:date>
+        </lomimscc:contribute>
+      </lomimscc:lifeCycle>
+      <lomimscc:rights>
+        <lomimscc:copyrightAndOtherRestrictions>
+          <lomimscc:value>yes</lomimscc:value>
+        </lomimscc:copyrightAndOtherRestrictions>
+        <lomimscc:description>
+          <lomimscc:string>Private (Copyrighted) - http://en.wikipedia.org/wiki/Copyright</lomimscc:string>
+        </lomimscc:description>
+      </lomimscc:rights>
+    </lomimscc:lom>
+  </metadata>
+  <organizations>
+    <organization identifier="org_1" structure="rooted-hierarchy">
+      <item identifier="LearningModules">
+        <item identifier="g915644d063dcb4ff3a88ac34fb7a3465">
+          <title>Important Sprint Info</title>
+          <item identifier="ge931cecd241b2a4ffeb2cc3c024cce01" identifierref="ge67d6b045513b7f8f91d1734aac85cfc">
+            <title>How to Pass This Sprint</title>
+          </item>
+          <item identifier="g8dffa3c1fe40e1386099f1ba7b2f97a4" identifierref="g7ed3037a9e05020e1a42918efb69c96d">
+            <title>Live Class Offerings</title>
+          </item>
+          <item identifier="gc10a7033c71d0a3b258e77adc80930a6" identifierref="g7ed398a3ccf1060150522a15dd19db4f">
+            <title>Career Coaching</title>
+          </item>
+          <item identifier="g3d18f564ed15c1dd2089a669a48334b2" identifierref="gd5d5173d41cfd53919495fd3dafc043b">
+            <title>GitHub Profile Checklist</title>
+          </item>
+          <item identifier="ge866219ac2410068046d5b2a7c72a3f7" identifierref="gea3f9f47339d742be0e732c48186e4f2">
+            <title>Academic Support</title>
+          </item>
+        </item>
+        <item identifier="g0d4be7d5630d8caf6ca1a586c9f81f3f">
+          <title>Introduction to CodeSignal and General Code Assessment (GCA)</title>
+          <item identifier="g78c729b91b2eef8dd61ca348ff5c427b" identifierref="g1269c554a3efd00138c6868ca6a853cd">
+            <title>What is CodeSignal and How to Create Your Account</title>
+          </item>
+          <item identifier="g3f84487a4f7359fa5d243846bbb732e2" identifierref="gf8edb0629d08d64836bd70fd9657de0e">
+            <title>CodeSignal User Interface Overview</title>
+          </item>
+          <item identifier="g61738c2eb0f247a3810be9fc79caaf17" identifierref="gea91c4e55069aec4bfc1edcdc400ecf6">
+            <title>CodeSignal Arcade</title>
+          </item>
+          <item identifier="g1539244363fa1667809689c36ab5aaa6" identifierref="gd187fae275b7ac2f0c898133302c4dbe">
+            <title>Introduction to GCA</title>
+          </item>
+        </item>
+        <item identifier="gd2722c1f670e7416d452a61f8f26df8f">
+          <title>Module 1 - Technical Preparation: Sample Challenge</title>
+          <item identifier="g0e689aac817c0fec3ae569895da2f9ff">
+            <title>Core Competencies</title>
+          </item>
+          <item identifier="gdb4e837c5ef8a4d4410ba7da02c9145b" identifierref="g0804c2a17e06c2b671194ac24df953ba">
+            <title>Understand the problem-solving framework</title>
+          </item>
+          <item identifier="g69e9120871be307d2636882e3dd892c3">
+            <title>Guided Project</title>
+          </item>
+          <item identifier="gc58188b64c60b454a8055c402e9f7a3d" identifierref="g10c93e5e0e2e163ce9d482ba99cb4dd6">
+            <title>Module 1 Guided Project</title>
+          </item>
+          <item identifier="gc8452900eb2b43987a70d76658f3159b">
+            <title>Practice Activities</title>
+          </item>
+          <item identifier="gb9d98a0e3ae8b2253d5a29fee9e4ad2d" identifierref="g9776a5014c7dc87dc7e8a556cfe58348">
+            <title>Module 1 Practice</title>
+          </item>
+          <item identifier="g8ce78f3f462bf419ec4540f22e987dcb">
+            <title>Check for Understanding</title>
+          </item>
+          <item identifier="ge3ab68cf100350184b3f05a3aac36cd0" identifierref="g086c440247158c52db479412f4cbcf99">
+            <title>Module 1 Check for Understanding</title>
+          </item>
+          <item identifier="gda5039194728b055f2b8542645ffb1e0">
+            <title>Practice GCA Test</title>
+          </item>
+          <item identifier="g6f56b51fd734d06717652bc10ab82c84" identifierref="gf443ff816af1c1f2f7c48d7708f066e0">
+            <title>Module 1 Take Practice GCA Test</title>
+          </item>
+        </item>
+        <item identifier="gfb44109d9e06a5fea26f6c0f32660af0">
+          <title>Module 2 - Technical Preparation: Palindromes</title>
+          <item identifier="g3b791ffa63a12f3dbc78c955bb66dff6">
+            <title>Core Competencies</title>
+          </item>
+          <item identifier="g3e003611564ffd558126cc975b1a7bc9" identifierref="g0b9e46f922c34d1240def195a69df967">
+            <title>Solve a problem based on if a string is determined to be a palindrome</title>
+          </item>
+          <item identifier="g275b900cf882d33b8903c1c391e129cf">
+            <title>Guided Project</title>
+          </item>
+          <item identifier="gbe37dc0a844e227d674cdc60924436cf" identifierref="g4e1d60a84c47e2c7d5f19002786265c4">
+            <title>Module 2 Guided Project</title>
+          </item>
+          <item identifier="g43130c17fb2efd949bd4a481fc732d8c">
+            <title>Practice Activities</title>
+          </item>
+          <item identifier="g7a013523896c7dba006c0d596e4ba171" identifierref="g8365f89a587b80e86e3e302398fd77ee">
+            <title>Module 2 Practice </title>
+          </item>
+          <item identifier="gcc739ec76616f481fe9371d4ce59d6c9">
+            <title>Check for Understanding</title>
+          </item>
+          <item identifier="g30c982f136a09b819ac2c3c79275db75" identifierref="g309963d925bff3c4247e846b48d2df50">
+            <title>Module 2 Check for Understanding</title>
+          </item>
+          <item identifier="g9ac369b9b4fb8945e2dee9d2ba6785fe">
+            <title>Practice GCA Test</title>
+          </item>
+          <item identifier="gcd6c6f54db2406985fdec1b3eea938fa" identifierref="g3572d730bd9fd8140442b69b42243d27">
+            <title>Module 2 Take Practice GCA Test</title>
+          </item>
+        </item>
+        <item identifier="g262843048bba9bd64c99166806533a8f">
+          <title>Module 3 - Technical Preparation: Building Arrays and Moving Windows</title>
+          <item identifier="g176a24f225ba5db4e90610ebfb632cb0">
+            <title>Core Competencies</title>
+          </item>
+          <item identifier="g885534dbcc5d5491499c28c036e06d3a" identifierref="g78e0ef34915c00418512e838a511b1ef">
+            <title>Define 2D arrays and how to access elements within them</title>
+          </item>
+          <item identifier="ge3f6942c1c3c2ea19632f4dfca80046b" identifierref="g8f6a2fb4caa21d14813318162f8c0ac4">
+            <title>Apply moving window techniques to arrays</title>
+          </item>
+          <item identifier="gf7897a39d1098d55e3bebebe839827cc">
+            <title>Guided Project</title>
+          </item>
+          <item identifier="gebd40a11e73c282699c6fb5ad7c0d0eb" identifierref="g94fb89d56a562a126793f7560f1b832c">
+            <title>Module 3 Guided Project</title>
+          </item>
+          <item identifier="gf9e9d3b37c663b54fc514380fe243707">
+            <title>Practice Activities</title>
+          </item>
+          <item identifier="g16f29008ad9979effe495d1c053fe475" identifierref="g7f303e92944a3bbf16806012ffccb997">
+            <title>Module 3 Practice 1</title>
+          </item>
+          <item identifier="g6865d106dcc6e0e0d59ce0a3d728684e" identifierref="gbb7f38666a8f427cdfef2f1161061944">
+            <title>Module 3 Practice 2</title>
+          </item>
+          <item identifier="g0bf8dc410c61aab681d499f67961ec05">
+            <title>Check for Understanding</title>
+          </item>
+          <item identifier="g5768524d1ec58ecaa99cb34cf32bdac5" identifierref="gbff57a17bb3a465c210883a6c67acb07">
+            <title>Module 3 Check for Understanding</title>
+          </item>
+          <item identifier="g23a67e6c48c52e6d7a15e2b8dbdd54f1">
+            <title>Practice GCA Test</title>
+          </item>
+          <item identifier="g0033eb779071ceae72a3b6f06e566756" identifierref="g208a984559755421caaae9ab3683ce24">
+            <title>Module 3 Take Practice GCA Test</title>
+          </item>
+        </item>
+        <item identifier="g704ce9c320bafbf7828b4461f8fe0102">
+          <title>Module 4 - Career Readiness: GitHub + Resume</title>
+          <item identifier="g84f99868fd3295501a8664569188ae6c">
+            <title>Core Competencies</title>
+          </item>
+          <item identifier="ge6eed86be240b2fc8d8648940b84e389" identifierref="g0b4d476f8b9497e59a3d5ad11bec8d9f">
+            <title>Building Your GitHub</title>
+          </item>
+          <item identifier="g4846ecc30ed153123cce32d172a943b4" identifierref="g4326dbb43840255a2ef3869339a40e89">
+            <title>Getting Started With GitHub</title>
+          </item>
+          <item identifier="g23a941134bf9f2247ed5410cc45571f3" identifierref="g0ee5b425f267b690514d19c397271e53">
+            <title>Creating Your Profile README</title>
+          </item>
+          <item identifier="gcae3705a0c5ccb174b630b43555fc793" identifierref="g7e35a9001f5633a0ede6c839ff5ef584">
+            <title>Pinning Projects</title>
+          </item>
+          <item identifier="gc3ce7f9e957a75aa60e389b224b2bacc" identifierref="gaf30bcbe8e429cfcc9c34c45050543ec">
+            <title>Creating Effective Content for Your Resume</title>
+          </item>
+          <item identifier="g9700f2c89be38c7bf456b20d203e97d3" identifierref="g7eb61539b60c5e9c88f1f9cc1a68c6c7">
+            <title>Adding Skills</title>
+          </item>
+          <item identifier="g1cd7dcd4d0d50a6a56916f921df4c70d" identifierref="gcc0ddcfcb9ee30162780ff132c50cca0">
+            <title>Adding Projects</title>
+          </item>
+          <item identifier="geee6e8a02d72f0f28baf7f67a39914fb" identifierref="g3fe896b37e4e53aa521138800e07cdeb">
+            <title>Experience Pre-BloomTech</title>
+          </item>
+          <item identifier="g8492357c54d2c9322bc71fad0fee7cb2" identifierref="g7012c82882b9a73aef5eed641c809af0">
+            <title>Finding Jobs</title>
+          </item>
+          <item identifier="g7d14bbe1431c5f1752f9184774bda339" identifierref="g0a7499e27b8ac3d189a51dc3724d6a9a">
+            <title>Example Job Titles Based on Your Skills so Far</title>
+          </item>
+          <item identifier="g5144d135087a95c29e79841ecd472d67" identifierref="gf964d6ce882c752fbaf566839073c508">
+            <title>Where to Look for Roles</title>
+          </item>
+          <item identifier="g9b9c035b06efe61a8604dadcc019f8f3">
+            <title>Practice Activities</title>
+          </item>
+          <item identifier="gdd22955b2ee4daaade63ea864c677e18" identifierref="g39cf23f1439993415d43e01deb9916f3">
+            <title>Github + Resume Check For Understanding</title>
+          </item>
+        </item>
+        <item identifier="gf152708043e1e23737272829e061f25f">
+          <title>Attend Code-Along &amp; Get it Done</title>
+          <item identifier="g5d0d22c833e662285bb729a11bb500ab" identifierref="g3ef2ac81b5ad9c01cc278af4c056f028">
+            <title>Prepare for Code-Along: 2D Arrays and Moving Windows</title>
+          </item>
+          <item identifier="gbfab83182c6f33a42cfe989c14632f28" identifierref="g20d89a5a45fab404e3fec417ad0ff958">
+            <title>Attend Get it Done</title>
+          </item>
+        </item>
+        <item identifier="gfffdc2f1964d1c4e710c810386aa24e5">
+          <title>Attend Code-Along 2</title>
+          <item identifier="gf46f791860eea54c1d9bd3f51d4dadaa" identifierref="g8b8c58aa51a13b7f0d72aeb8222c2df1">
+            <title>Prepare for Code-Along 2:</title>
+          </item>
+          <item identifier="gb4f3363c21eca54b5944d198582b7a86" identifierref="g20d89a5a45fab404e3fec417ad0ff958">
+            <title>Attend Get it Done</title>
+          </item>
+        </item>
+        <item identifier="g09537dddb7e17564c9918384bd8336a2">
+          <title>Sprint Challenge</title>
+          <item identifier="g32ce674412db8d4b53f9a45ef31c5cc5" identifierref="g20c5c6bcc3b0dc368ff1e067fabf6487">
+            <title>Submit GitHub</title>
+          </item>
+          <item identifier="ge660492c97a758409a651874f88c1de8" identifierref="g863964114313bac5a1009a877baa25f2">
+            <title>Attempt Official GCA Test</title>
+          </item>
+          <item identifier="g52dcfc2878b6624dbb3881fec608cba9" identifierref="g853e29facad3fb3f2c7f77494ca8330c">
+            <title>Next Step</title>
+          </item>
+        </item>
+        <item identifier="g10220046e630a5d74623d94677a5854d">
+          <title>Module 1 - Career Readiness: GitHub</title>
+          <item identifier="g8946c166f1906401247710b358a9ead7">
+            <title>Core Competencies</title>
+          </item>
+          <item identifier="gb6d485c0f38aa20485c5a9cb8289210b" identifierref="gfeff4297d4593ee5ea2dae174333a9e7">
+            <title>Learn how to setup and build your GitHub profile </title>
+          </item>
+          <item identifier="g65ce90a30d217baa31532f603b481b03">
+            <title>Check for Understanding</title>
+          </item>
+          <item identifier="g08eb942729256b8e5f086a2db8b7cb84" identifierref="g61d4acf9b2ae6fa621b5705b8b5160a9">
+            <title>Module 1 Check for Understanding</title>
+          </item>
+          <item identifier="g3ec05abeef482649cb2a4b71de20cdec">
+            <title>Practice Activities</title>
+          </item>
+          <item identifier="gccff19277ebcf9762c69345194f6cd45" identifierref="g2f653c39f023229ebe573e21a87fa093">
+            <title>Module 1 Practice </title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="g7abe88b28bbc8c6c8118ec6ca1bd768f_syllabus" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/syllabus.html" intendeduse="syllabus">
+      <file href="course_settings/syllabus.html"/>
+    </resource>
+    <resource identifier="g7abe88b28bbc8c6c8118ec6ca1bd768f" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/canvas_export.txt">
+      <file href="course_settings/course_settings.xml"/>
+      <file href="course_settings/module_meta.xml"/>
+      <file href="course_settings/assignment_groups.xml"/>
+      <file href="course_settings/files_meta.xml"/>
+      <file href="course_settings/late_policy.xml"/>
+      <file href="course_settings/context.xml"/>
+      <file href="course_settings/media_tracks.xml"/>
+      <file href="course_settings/canvas_export.txt"/>
+    </resource>
+    <resource identifier="g8b8c58aa51a13b7f0d72aeb8222c2df1" type="webcontent" href="wiki_content/prepare-for-code-along-2.html">
+      <file href="wiki_content/prepare-for-code-along-2.html"/>
+    </resource>
+    <resource identifier="geed09c11e98a0a2116214bc7be21989f" type="webcontent" href="wiki_content/tech-requirements.html">
+      <file href="wiki_content/tech-requirements.html"/>
+    </resource>
+    <resource identifier="g11fa1757415fef5ed814268b0182f8c2" type="webcontent" href="wiki_content/utilize-boolean-programming-logic-and-if-statements.html">
+      <file href="wiki_content/utilize-boolean-programming-logic-and-if-statements.html"/>
+    </resource>
+    <resource identifier="g703ed2d4a7baf9f842b2d497419a8688" type="webcontent" href="wiki_content/review-of-basic-coding-knowledge-functions-variables-and-math.html">
+      <file href="wiki_content/review-of-basic-coding-knowledge-functions-variables-and-math.html"/>
+    </resource>
+    <resource identifier="g86010c6c58586b9692dd2db0368fbaa7" type="webcontent" href="wiki_content/practice-4.html">
+      <file href="wiki_content/practice-4.html"/>
+    </resource>
+    <resource identifier="g43870212417c2f435d92d467213b8593" type="webcontent" href="wiki_content/write-code-that-processes-and-uses-multidimensional-arrays.html">
+      <file href="wiki_content/write-code-that-processes-and-uses-multidimensional-arrays.html"/>
+    </resource>
+    <resource identifier="g00b5fea3edd437fb1070796251e4cb07" type="webcontent" href="wiki_content/write-an-effective-cold-outreach-message.html">
+      <file href="wiki_content/write-an-effective-cold-outreach-message.html"/>
+    </resource>
+    <resource identifier="g79293a78f2a9bf04cb8c76ef992339cd" type="webcontent" href="wiki_content/practice-2-copy.html">
+      <file href="wiki_content/practice-2-copy.html"/>
+    </resource>
+    <resource identifier="gb7c4fb878ed30c04ff4b09a0d73febcf" type="webcontent" href="wiki_content/practice-3.html">
+      <file href="wiki_content/practice-3.html"/>
+    </resource>
+    <resource identifier="g6a07f2557ce223d502bb9f7fd7541d54" type="webcontent" href="wiki_content/understand-objects-and-letter-counts.html">
+      <file href="wiki_content/understand-objects-and-letter-counts.html"/>
+    </resource>
+    <resource identifier="g5ce409883e4a251b008ecd20c1cd43db" type="webcontent" href="wiki_content/practice-2.html">
+      <file href="wiki_content/practice-2.html"/>
+    </resource>
+    <resource identifier="gf9e58671ecad1d36d6dbca23b7294d1a" type="webcontent" href="wiki_content/engagement-expectations.html">
+      <file href="wiki_content/engagement-expectations.html"/>
+    </resource>
+    <resource identifier="gd187fae275b7ac2f0c898133302c4dbe" type="webcontent" href="wiki_content/introduction-to-gca.html">
+      <file href="wiki_content/introduction-to-gca.html"/>
+    </resource>
+    <resource identifier="g7e0c4e75200467fac96ace9c41d5a401" type="webcontent" href="wiki_content/unit-overview.html">
+      <file href="wiki_content/unit-overview.html"/>
+    </resource>
+    <resource identifier="g0ee5b425f267b690514d19c397271e53" type="webcontent" href="wiki_content/creating-your-profile-readme.html">
+      <file href="wiki_content/creating-your-profile-readme.html"/>
+    </resource>
+    <resource identifier="gf964d6ce882c752fbaf566839073c508" type="webcontent" href="wiki_content/where-to-look-for-roles-2.html">
+      <file href="wiki_content/where-to-look-for-roles-2.html"/>
+    </resource>
+    <resource identifier="g0a7499e27b8ac3d189a51dc3724d6a9a" type="webcontent" href="wiki_content/example-job-titles-based-on-your-skills-so-far.html">
+      <file href="wiki_content/example-job-titles-based-on-your-skills-so-far.html"/>
+    </resource>
+    <resource identifier="g4326dbb43840255a2ef3869339a40e89" type="webcontent" href="wiki_content/getting-started-with-github.html">
+      <file href="wiki_content/getting-started-with-github.html"/>
+    </resource>
+    <resource identifier="g3fe896b37e4e53aa521138800e07cdeb" type="webcontent" href="wiki_content/experience-pre-bloomtech.html">
+      <file href="wiki_content/experience-pre-bloomtech.html"/>
+    </resource>
+    <resource identifier="g4e1d60a84c47e2c7d5f19002786265c4" type="webcontent" href="wiki_content/module-3-guided-project.html">
+      <file href="wiki_content/module-3-guided-project.html"/>
+    </resource>
+    <resource identifier="g9776a5014c7dc87dc7e8a556cfe58348" type="webcontent" href="wiki_content/module-2-practice.html">
+      <file href="wiki_content/module-2-practice.html"/>
+    </resource>
+    <resource identifier="g8365f89a587b80e86e3e302398fd77ee" type="webcontent" href="wiki_content/module-3-practice.html">
+      <file href="wiki_content/module-3-practice.html"/>
+    </resource>
+    <resource identifier="g8f6a2fb4caa21d14813318162f8c0ac4" type="webcontent" href="wiki_content/apply-moving-window-techniques-to-arrays.html">
+      <file href="wiki_content/apply-moving-window-techniques-to-arrays.html"/>
+    </resource>
+    <resource identifier="g94fb89d56a562a126793f7560f1b832c" type="webcontent" href="wiki_content/module-4-guided-project.html">
+      <file href="wiki_content/module-4-guided-project.html"/>
+    </resource>
+    <resource identifier="g7f303e92944a3bbf16806012ffccb997" type="webcontent" href="wiki_content/module-4-practice-1.html">
+      <file href="wiki_content/module-4-practice-1.html"/>
+    </resource>
+    <resource identifier="g7eb61539b60c5e9c88f1f9cc1a68c6c7" type="webcontent" href="wiki_content/adding-skills.html">
+      <file href="wiki_content/adding-skills.html"/>
+    </resource>
+    <resource identifier="gbb7f38666a8f427cdfef2f1161061944" type="webcontent" href="wiki_content/module-4-practice-2.html">
+      <file href="wiki_content/module-4-practice-2.html"/>
+    </resource>
+    <resource identifier="gf443ff816af1c1f2f7c48d7708f066e0" type="webcontent" href="wiki_content/module-2-take-practice-gca-test.html">
+      <file href="wiki_content/module-2-take-practice-gca-test.html"/>
+    </resource>
+    <resource identifier="gcc0ddcfcb9ee30162780ff132c50cca0" type="webcontent" href="wiki_content/adding-projects.html">
+      <file href="wiki_content/adding-projects.html"/>
+    </resource>
+    <resource identifier="g208a984559755421caaae9ab3683ce24" type="webcontent" href="wiki_content/module-4-take-practice-gca-test.html">
+      <file href="wiki_content/module-4-take-practice-gca-test.html"/>
+    </resource>
+    <resource identifier="g3ef2ac81b5ad9c01cc278af4c056f028" type="webcontent" href="wiki_content/prepare-for-code-along-2d-arrays-and-moving-windows.html">
+      <file href="wiki_content/prepare-for-code-along-2d-arrays-and-moving-windows.html"/>
+    </resource>
+    <resource identifier="g20d89a5a45fab404e3fec417ad0ff958" type="webcontent" href="wiki_content/attend-get-it-done.html">
+      <file href="wiki_content/attend-get-it-done.html"/>
+    </resource>
+    <resource identifier="g250f49a1ee5939fb52ef45917d1148da" type="webcontent" href="wiki_content/welcome.html">
+      <file href="wiki_content/welcome.html"/>
+    </resource>
+    <resource identifier="ge67d6b045513b7f8f91d1734aac85cfc" type="webcontent" href="wiki_content/how-to-pass-this-sprint.html">
+      <file href="wiki_content/how-to-pass-this-sprint.html"/>
+    </resource>
+    <resource identifier="g7ed3037a9e05020e1a42918efb69c96d" type="webcontent" href="wiki_content/live-class-offerings.html">
+      <file href="wiki_content/live-class-offerings.html"/>
+    </resource>
+    <resource identifier="gea3f9f47339d742be0e732c48186e4f2" type="webcontent" href="wiki_content/academic-support.html">
+      <file href="wiki_content/academic-support.html"/>
+    </resource>
+    <resource identifier="gd9bbff9db6c254f7d8f21e049294569d" type="webcontent" href="wiki_content/additional-information-on-gca.html">
+      <file href="wiki_content/additional-information-on-gca.html"/>
+    </resource>
+    <resource identifier="g7ed398a3ccf1060150522a15dd19db4f" type="webcontent" href="wiki_content/career-coaching.html">
+      <file href="wiki_content/career-coaching.html"/>
+    </resource>
+    <resource identifier="gd5d5173d41cfd53919495fd3dafc043b" type="webcontent" href="wiki_content/github-profile-checklist.html">
+      <file href="wiki_content/github-profile-checklist.html"/>
+    </resource>
+    <resource identifier="g1269c554a3efd00138c6868ca6a853cd" type="webcontent" href="wiki_content/what-is-codesignal-and-how-to-create-your-account.html">
+      <file href="wiki_content/what-is-codesignal-and-how-to-create-your-account.html"/>
+    </resource>
+    <resource identifier="gf8edb0629d08d64836bd70fd9657de0e" type="webcontent" href="wiki_content/codesignal-user-interface-overview.html">
+      <file href="wiki_content/codesignal-user-interface-overview.html"/>
+    </resource>
+    <resource identifier="g0804c2a17e06c2b671194ac24df953ba" type="webcontent" href="wiki_content/understand-the-problem-solving-framework.html">
+      <file href="wiki_content/understand-the-problem-solving-framework.html"/>
+    </resource>
+    <resource identifier="g10c93e5e0e2e163ce9d482ba99cb4dd6" type="webcontent" href="wiki_content/module-2-guided-project.html">
+      <file href="wiki_content/module-2-guided-project.html"/>
+    </resource>
+    <resource identifier="gea91c4e55069aec4bfc1edcdc400ecf6" type="webcontent" href="wiki_content/codesignal-arcade.html">
+      <file href="wiki_content/codesignal-arcade.html"/>
+    </resource>
+    <resource identifier="g0b9e46f922c34d1240def195a69df967" type="webcontent" href="wiki_content/solve-a-problem-based-on-if-a-string-is-determined-to-be-a-palindrome.html">
+      <file href="wiki_content/solve-a-problem-based-on-if-a-string-is-determined-to-be-a-palindrome.html"/>
+    </resource>
+    <resource identifier="g3572d730bd9fd8140442b69b42243d27" type="webcontent" href="wiki_content/module-3-take-practice-gca-test.html">
+      <file href="wiki_content/module-3-take-practice-gca-test.html"/>
+    </resource>
+    <resource identifier="g78e0ef34915c00418512e838a511b1ef" type="webcontent" href="wiki_content/define-2d-arrays-and-how-to-access-elements-within-them.html">
+      <file href="wiki_content/define-2d-arrays-and-how-to-access-elements-within-them.html"/>
+    </resource>
+    <resource identifier="g0b4d476f8b9497e59a3d5ad11bec8d9f" type="webcontent" href="wiki_content/building-your-github.html">
+      <file href="wiki_content/building-your-github.html"/>
+    </resource>
+    <resource identifier="g7e35a9001f5633a0ede6c839ff5ef584" type="webcontent" href="wiki_content/pinning-projects.html">
+      <file href="wiki_content/pinning-projects.html"/>
+    </resource>
+    <resource identifier="gaf30bcbe8e429cfcc9c34c45050543ec" type="webcontent" href="wiki_content/creating-effective-content-for-your-resume-2.html">
+      <file href="wiki_content/creating-effective-content-for-your-resume-2.html"/>
+    </resource>
+    <resource identifier="g7012c82882b9a73aef5eed641c809af0" type="webcontent" href="wiki_content/finding-jobs.html">
+      <file href="wiki_content/finding-jobs.html"/>
+    </resource>
+    <resource identifier="gfeff4297d4593ee5ea2dae174333a9e7" type="webcontent" href="wiki_content/learn-how-to-setup-and-build-your-github-profile.html">
+      <file href="wiki_content/learn-how-to-setup-and-build-your-github-profile.html"/>
+    </resource>
+    <resource identifier="g49270abe9a18b5d76643404b4912e57c" type="webcontent" href="wiki_content/learn-how-to-create-and-add-relevant-contributions-to-your-github-profile.html">
+      <file href="wiki_content/learn-how-to-create-and-add-relevant-contributions-to-your-github-profile.html"/>
+    </resource>
+    <resource identifier="g2f653c39f023229ebe573e21a87fa093" type="webcontent" href="wiki_content/module-1-practice.html">
+      <file href="wiki_content/module-1-practice.html"/>
+    </resource>
+    <resource identifier="g853e29facad3fb3f2c7f77494ca8330c" type="webcontent" href="wiki_content/next-step.html">
+      <file href="wiki_content/next-step.html"/>
+    </resource>
+    <resource identifier="gebf9fcc187bfcf2d212381fd1ee366ee" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gebf9fcc187bfcf2d212381fd1ee366ee.xml"/>
+    </resource>
+    <resource identifier="g335172dfa27e160af0b105ef9410b627" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g335172dfa27e160af0b105ef9410b627.xml"/>
+    </resource>
+    <resource identifier="g774f35648952ca794cf6f8be0eddf89b" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g774f35648952ca794cf6f8be0eddf89b.xml"/>
+    </resource>
+    <resource identifier="gba01df49949e9b9a97f1f3ef259db653" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gba01df49949e9b9a97f1f3ef259db653.xml"/>
+    </resource>
+    <resource identifier="g9c76046ab18fcae4f35558ceffe61d9b" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g9c76046ab18fcae4f35558ceffe61d9b.xml"/>
+    </resource>
+    <resource identifier="gecce1b21a5c7cb53146074f0b35a26bc" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gecce1b21a5c7cb53146074f0b35a26bc.xml"/>
+    </resource>
+    <resource identifier="g2f947d98b0540ba85c86eca7fe63c3db" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g2f947d98b0540ba85c86eca7fe63c3db.xml"/>
+    </resource>
+    <resource identifier="gc5aace087bf3c5680113184d2290ee80" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gc5aace087bf3c5680113184d2290ee80.xml"/>
+    </resource>
+    <resource identifier="g5273d049ced47924f2937b2cfff770f7" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g5273d049ced47924f2937b2cfff770f7.xml"/>
+    </resource>
+    <resource identifier="g2fe7107776e328a7578f3e7ef6bd4258" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g2fe7107776e328a7578f3e7ef6bd4258.xml"/>
+    </resource>
+    <resource identifier="g73ef644566dd8c0f393b0225a575cb82" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g73ef644566dd8c0f393b0225a575cb82.xml"/>
+    </resource>
+    <resource identifier="gc1d81ec0aaf00d255edb1b60e9b6b4c1" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gc1d81ec0aaf00d255edb1b60e9b6b4c1.xml"/>
+    </resource>
+    <resource identifier="g38b2fd04b944c8371f6cc7a3cb1714d4" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g38b2fd04b944c8371f6cc7a3cb1714d4.xml"/>
+    </resource>
+    <resource identifier="gfd0ffddac9b9884b961a59e5bb768644" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gfd0ffddac9b9884b961a59e5bb768644.xml"/>
+    </resource>
+    <resource identifier="g748761203b1f62996a17dfc60965901c" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g748761203b1f62996a17dfc60965901c.xml"/>
+    </resource>
+    <resource identifier="g62157db85ef2d6251c1205e11d9c4390" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g62157db85ef2d6251c1205e11d9c4390.xml"/>
+    </resource>
+    <resource identifier="g2e5923cf91015b64e8662c6b34d737b3" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g2e5923cf91015b64e8662c6b34d737b3.xml"/>
+    </resource>
+    <resource identifier="ge7aae6d09b525cf2f50c874d3f94496a" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/ge7aae6d09b525cf2f50c874d3f94496a.xml"/>
+    </resource>
+    <resource identifier="gf46db55011b47153c215c9ebfa2edc71" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gf46db55011b47153c215c9ebfa2edc71.xml"/>
+    </resource>
+    <resource identifier="g772342131a6e9c2054a526d5f173e7d1" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g772342131a6e9c2054a526d5f173e7d1.xml"/>
+    </resource>
+    <resource identifier="gffaa7097084b64671f11c5bd53db2032" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gffaa7097084b64671f11c5bd53db2032.xml"/>
+    </resource>
+    <resource identifier="ga7e6894a4bbaccea0454b716876b1e9e" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/ga7e6894a4bbaccea0454b716876b1e9e.xml"/>
+    </resource>
+    <resource identifier="g85dc193a1c03bb6f5188cbfb73e81891" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g85dc193a1c03bb6f5188cbfb73e81891.xml"/>
+    </resource>
+    <resource identifier="gc9be801f9b5645af9a72c3f5e640316a" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gc9be801f9b5645af9a72c3f5e640316a.xml"/>
+    </resource>
+    <resource identifier="gb0db0b47b2cc433f99629148aa6fffeb" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gb0db0b47b2cc433f99629148aa6fffeb.xml"/>
+    </resource>
+    <resource identifier="gda85129da01ce07be36bf490d61e1bad" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gda85129da01ce07be36bf490d61e1bad.xml"/>
+    </resource>
+    <resource identifier="gb536367a949db696b8932fa038ccf345" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gb536367a949db696b8932fa038ccf345.xml"/>
+    </resource>
+    <resource identifier="g615b3aa7108a6c5692cb35fd24e29a98" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g615b3aa7108a6c5692cb35fd24e29a98.xml"/>
+    </resource>
+    <resource identifier="g43535090d2a82760c2e5bb853fef1021" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g43535090d2a82760c2e5bb853fef1021.xml"/>
+    </resource>
+    <resource identifier="g0e1584754a5c59f153069fa3d333a825" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g0e1584754a5c59f153069fa3d333a825.xml"/>
+    </resource>
+    <resource identifier="g214b6e9603cd36458911a5d52fab50e1" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g214b6e9603cd36458911a5d52fab50e1.xml"/>
+    </resource>
+    <resource identifier="g7a071b336aee0de3d3dc359509bd7527" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g7a071b336aee0de3d3dc359509bd7527.xml"/>
+    </resource>
+    <resource identifier="ga9e1f3ac36d47763703ce69d75da4772" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/ga9e1f3ac36d47763703ce69d75da4772.xml"/>
+    </resource>
+    <resource identifier="g813d52041614e0b3e191a3bc8e47df90" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g813d52041614e0b3e191a3bc8e47df90.xml"/>
+    </resource>
+    <resource identifier="g4a4938d042aa21fd119309c0b1e4d47c" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g4a4938d042aa21fd119309c0b1e4d47c.xml"/>
+    </resource>
+    <resource identifier="g0cdc7e6fc737bb4a6474dac7199199ec" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g0cdc7e6fc737bb4a6474dac7199199ec.xml"/>
+    </resource>
+    <resource identifier="g6aa5073718e24914fb83bde1c1a669c3" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g6aa5073718e24914fb83bde1c1a669c3.xml"/>
+    </resource>
+    <resource identifier="g526e2e3af6b4868145e48534ef6a7ac3" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g526e2e3af6b4868145e48534ef6a7ac3.xml"/>
+    </resource>
+    <resource identifier="gfcbac0efaf5dae13720edb070560f2c2" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gfcbac0efaf5dae13720edb070560f2c2.xml"/>
+    </resource>
+    <resource identifier="g7db65f7366c9f4f6eb00a64e197572e9" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g7db65f7366c9f4f6eb00a64e197572e9.xml"/>
+    </resource>
+    <resource identifier="g9af66b78bd6acaa12e6beac60f0fa7f1" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g9af66b78bd6acaa12e6beac60f0fa7f1.xml"/>
+    </resource>
+    <resource identifier="g4016191ffa6099073c5a7b2002105928" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g4016191ffa6099073c5a7b2002105928.xml"/>
+    </resource>
+    <resource identifier="gc6cff8fe4819a7a5056e53d2ae3c378c" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gc6cff8fe4819a7a5056e53d2ae3c378c.xml"/>
+    </resource>
+    <resource identifier="g14566a661cdc43ce19743c5d621c86a3" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g14566a661cdc43ce19743c5d621c86a3.xml"/>
+    </resource>
+    <resource identifier="g164327e824c996f689506cefeb2c4703" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g164327e824c996f689506cefeb2c4703.xml"/>
+    </resource>
+    <resource identifier="gba355fc778595fad6dd6d7d06c00573e" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gba355fc778595fad6dd6d7d06c00573e.xml"/>
+    </resource>
+    <resource identifier="gf3016b747ae92fc234604c15af4e2866" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gf3016b747ae92fc234604c15af4e2866.xml"/>
+    </resource>
+    <resource identifier="g17bc8606ed6029c608c092ea61c5216b" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g17bc8606ed6029c608c092ea61c5216b.xml"/>
+    </resource>
+    <resource identifier="g02396c8fa34d64151fe693c9ec950c5d" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g02396c8fa34d64151fe693c9ec950c5d.xml"/>
+    </resource>
+    <resource identifier="g11d68cdc028dc3ddd1133c65f54c202a" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g11d68cdc028dc3ddd1133c65f54c202a.xml"/>
+    </resource>
+    <resource identifier="g045dd76f7c9b694df6cdece62419345b" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g045dd76f7c9b694df6cdece62419345b.xml"/>
+    </resource>
+    <resource identifier="gd4763d137494a90cbee566b0475492e8" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gd4763d137494a90cbee566b0475492e8.xml"/>
+    </resource>
+    <resource identifier="g6e4d6edb4b46181963a7add37299ebfe" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g6e4d6edb4b46181963a7add37299ebfe.xml"/>
+    </resource>
+    <resource identifier="g1cf76f5eb153ada546f1fd6ca99a7d27" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g1cf76f5eb153ada546f1fd6ca99a7d27.xml"/>
+    </resource>
+    <resource identifier="g48885d9cb6020bf730c57781b8d15505" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g48885d9cb6020bf730c57781b8d15505.xml"/>
+    </resource>
+    <resource identifier="gf4005da4669a2f1579745ed25a5a5f76" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gf4005da4669a2f1579745ed25a5a5f76.xml"/>
+    </resource>
+    <resource identifier="gbf8080ce040c5efd4b260e5890ae94e0" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gbf8080ce040c5efd4b260e5890ae94e0.xml"/>
+    </resource>
+    <resource identifier="g56b9dedf347ad166d35df7f3aa20ddbd" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g56b9dedf347ad166d35df7f3aa20ddbd.xml"/>
+    </resource>
+    <resource identifier="g37c3258f1359936d6437fd8e03784e12" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g37c3258f1359936d6437fd8e03784e12.xml"/>
+    </resource>
+    <resource identifier="g04a5f4b3627a2efdda80d5884c1bf684" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g04a5f4b3627a2efdda80d5884c1bf684.xml"/>
+    </resource>
+    <resource identifier="gbe3902154da81206cc14ccb72a73f628" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gbe3902154da81206cc14ccb72a73f628.xml"/>
+    </resource>
+    <resource identifier="ga4e4cd6c11193a7206794296dd7f20fb" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/ga4e4cd6c11193a7206794296dd7f20fb.xml"/>
+    </resource>
+    <resource identifier="g805cd1fc12cb55a296827f9763e1562c" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g805cd1fc12cb55a296827f9763e1562c.xml"/>
+    </resource>
+    <resource identifier="g7fe8b65e778f4556e8aa76b58b4e5336" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g7fe8b65e778f4556e8aa76b58b4e5336.xml"/>
+    </resource>
+    <resource identifier="g2e2271e086387bd61af3a0b0422d67b6" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g2e2271e086387bd61af3a0b0422d67b6.xml"/>
+    </resource>
+    <resource identifier="gbd7a6962579bdb12f67c76e78e4387e1" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gbd7a6962579bdb12f67c76e78e4387e1.xml"/>
+    </resource>
+    <resource identifier="g2fd55f7028beee9747329f91034ef4fd" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g2fd55f7028beee9747329f91034ef4fd.xml"/>
+    </resource>
+    <resource identifier="gf2390530cdce221ed882d05e1d87d374" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gf2390530cdce221ed882d05e1d87d374.xml"/>
+    </resource>
+    <resource identifier="gc8119e03e3ad683672a05ee6110f6ef5" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gc8119e03e3ad683672a05ee6110f6ef5.xml"/>
+    </resource>
+    <resource identifier="g8e61b44091ce1e004d9a0b47cfddc6db" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g8e61b44091ce1e004d9a0b47cfddc6db.xml"/>
+    </resource>
+    <resource identifier="g9a34e801493680d13714cbcf52a982e9" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g9a34e801493680d13714cbcf52a982e9.xml"/>
+    </resource>
+    <resource identifier="gd85ba6d7b228d4860de3229ebe28961b" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gd85ba6d7b228d4860de3229ebe28961b.xml"/>
+    </resource>
+    <resource identifier="g0530b4cb97968d317cc506212e67aaea" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g0530b4cb97968d317cc506212e67aaea.xml"/>
+    </resource>
+    <resource identifier="gdbf44fd425c8e29ffb7beefad4c1c4d1" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gdbf44fd425c8e29ffb7beefad4c1c4d1.xml"/>
+    </resource>
+    <resource identifier="g71840fbf3f936ae14f253e11f818760e" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g71840fbf3f936ae14f253e11f818760e.xml"/>
+    </resource>
+    <resource identifier="g115fe88ad366447863e0231b0dccecb1" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g115fe88ad366447863e0231b0dccecb1.xml"/>
+    </resource>
+    <resource identifier="g0fc8d634bb843e7f10404ab5330704cc" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g0fc8d634bb843e7f10404ab5330704cc.xml"/>
+    </resource>
+    <resource identifier="g3790f930186abb3ed7536792284bd295" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g3790f930186abb3ed7536792284bd295.xml"/>
+    </resource>
+    <resource identifier="g9978d29766801e25329dd44214e5bb0a" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g9978d29766801e25329dd44214e5bb0a.xml"/>
+    </resource>
+    <resource identifier="gc174402167d0c0bc627e55d9394c7a3b" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gc174402167d0c0bc627e55d9394c7a3b.xml"/>
+    </resource>
+    <resource identifier="g6ce98077b7cdee8372137590f7e137dc" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g6ce98077b7cdee8372137590f7e137dc.xml"/>
+    </resource>
+    <resource identifier="gb06f4739e5abffb6bcec202af431f7a1" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gb06f4739e5abffb6bcec202af431f7a1.xml"/>
+    </resource>
+    <resource identifier="g1e1c91d5dd419a86b575d29fb553c211" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g1e1c91d5dd419a86b575d29fb553c211.xml"/>
+    </resource>
+    <resource identifier="g0d0c8e551c9d96b30effc260b87c59ca" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g0d0c8e551c9d96b30effc260b87c59ca.xml"/>
+    </resource>
+    <resource identifier="gef0ea13e131bb791b7dd80164c2d1cd5" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gef0ea13e131bb791b7dd80164c2d1cd5.xml"/>
+    </resource>
+    <resource identifier="g5cbbeecdd071b9ddac7d2b48a2bb1ac8" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g5cbbeecdd071b9ddac7d2b48a2bb1ac8.xml"/>
+    </resource>
+    <resource identifier="g5db72eafea6f42477826b57ed772e87f" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g5db72eafea6f42477826b57ed772e87f.xml"/>
+    </resource>
+    <resource identifier="g58594c9496156279055e60caaf04b465" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g58594c9496156279055e60caaf04b465.xml"/>
+    </resource>
+    <resource identifier="ga10b5bacaacda47406ac7fabb7761fb6" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/ga10b5bacaacda47406ac7fabb7761fb6.xml"/>
+    </resource>
+    <resource identifier="g044ccba61b5cc964db72d82335065fee" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g044ccba61b5cc964db72d82335065fee.xml"/>
+    </resource>
+    <resource identifier="g22da88bd4a7f4eeb55171b5945212497" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g22da88bd4a7f4eeb55171b5945212497.xml"/>
+    </resource>
+    <resource identifier="g986c4c8deb0b3fff5cfda6f8820c2efc" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g986c4c8deb0b3fff5cfda6f8820c2efc.xml"/>
+    </resource>
+    <resource identifier="ge123b6351a734edbe644b74df7a679d1" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/ge123b6351a734edbe644b74df7a679d1.xml"/>
+    </resource>
+    <resource identifier="gfe789a16a3216b79db4b8f3fca06cc1e" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gfe789a16a3216b79db4b8f3fca06cc1e.xml"/>
+    </resource>
+    <resource identifier="gdabc212a4009ac7408f7abface0171cb" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gdabc212a4009ac7408f7abface0171cb.xml"/>
+    </resource>
+    <resource identifier="g5a43e6f24ffa33821a914217f77a59c5" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g5a43e6f24ffa33821a914217f77a59c5.xml"/>
+    </resource>
+    <resource identifier="g49c3415212faa0b015eee256249f4236" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g49c3415212faa0b015eee256249f4236.xml"/>
+    </resource>
+    <resource identifier="g46b6c5f080287064d0f71e12f63c34fd" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g46b6c5f080287064d0f71e12f63c34fd.xml"/>
+    </resource>
+    <resource identifier="gb2cb51467e8d94db78e984f07bcc2623" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gb2cb51467e8d94db78e984f07bcc2623.xml"/>
+    </resource>
+    <resource identifier="gebef6bc7971f02f73482278b2f1e94fa" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gebef6bc7971f02f73482278b2f1e94fa.xml"/>
+    </resource>
+    <resource identifier="gc8774138b087dbed593fa462aa4c5515" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gc8774138b087dbed593fa462aa4c5515.xml"/>
+    </resource>
+    <resource identifier="g2ef27a361a8870a7174cbe2628e0a2f8" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g2ef27a361a8870a7174cbe2628e0a2f8.xml"/>
+    </resource>
+    <resource identifier="g9e4fe29cb0c38d1b2bdeb69ba454d0e4" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g9e4fe29cb0c38d1b2bdeb69ba454d0e4.xml"/>
+    </resource>
+    <resource identifier="g81df3ebc52a41e20044ce29c699c5b22" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g81df3ebc52a41e20044ce29c699c5b22.xml"/>
+    </resource>
+    <resource identifier="g1552d2d73c185c5f0f6cb11c1ce1a74f" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g1552d2d73c185c5f0f6cb11c1ce1a74f.xml"/>
+    </resource>
+    <resource identifier="gc9687013dc9d6682b7e3554523d69ac4" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gc9687013dc9d6682b7e3554523d69ac4.xml"/>
+    </resource>
+    <resource identifier="gfa41d4499f058761221091ad9a44dbce" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gfa41d4499f058761221091ad9a44dbce.xml"/>
+    </resource>
+    <resource identifier="gaacd0bff54482ac7a34b376dfe061665" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/gaacd0bff54482ac7a34b376dfe061665.xml"/>
+    </resource>
+    <resource identifier="g93e3737c2e37e7373a55981bd40e391c" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g93e3737c2e37e7373a55981bd40e391c.xml"/>
+    </resource>
+    <resource identifier="g6cea029f629cf0279e9dbfbb0ac6ab21" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g6cea029f629cf0279e9dbfbb0ac6ab21.xml"/>
+    </resource>
+    <resource identifier="g987cf4bc5c746c30b05204b9c67a1e94" type="imsbasiclti_xmlv1p3">
+      <file href="lti_resource_links/g987cf4bc5c746c30b05204b9c67a1e94.xml"/>
+    </resource>
+    <resource identifier="g863964114313bac5a1009a877baa25f2" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g863964114313bac5a1009a877baa25f2/attempt-official-gca-test.html">
+      <file href="g863964114313bac5a1009a877baa25f2/attempt-official-gca-test.html"/>
+      <file href="g863964114313bac5a1009a877baa25f2/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g20c5c6bcc3b0dc368ff1e067fabf6487" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g20c5c6bcc3b0dc368ff1e067fabf6487/submit-github.html">
+      <file href="g20c5c6bcc3b0dc368ff1e067fabf6487/submit-github.html"/>
+      <file href="g20c5c6bcc3b0dc368ff1e067fabf6487/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g39cf23f1439993415d43e01deb9916f3" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g39cf23f1439993415d43e01deb9916f3/assessment_qti.xml"/>
+      <dependency identifierref="g7a813a6b989bffe892b2fb63bfb6fe82"/>
+    </resource>
+    <resource identifier="g7a813a6b989bffe892b2fb63bfb6fe82" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g39cf23f1439993415d43e01deb9916f3/assessment_meta.xml">
+      <file href="g39cf23f1439993415d43e01deb9916f3/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g39cf23f1439993415d43e01deb9916f3.xml.qti"/>
+    </resource>
+    <resource identifier="g61d4acf9b2ae6fa621b5705b8b5160a9" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g61d4acf9b2ae6fa621b5705b8b5160a9/assessment_qti.xml"/>
+      <dependency identifierref="gb1a654d756e3766987ae50115c8ef7fb"/>
+    </resource>
+    <resource identifier="gb1a654d756e3766987ae50115c8ef7fb" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g61d4acf9b2ae6fa621b5705b8b5160a9/assessment_meta.xml">
+      <file href="g61d4acf9b2ae6fa621b5705b8b5160a9/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g61d4acf9b2ae6fa621b5705b8b5160a9.xml.qti"/>
+    </resource>
+    <resource identifier="g086c440247158c52db479412f4cbcf99" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g086c440247158c52db479412f4cbcf99/assessment_qti.xml"/>
+      <dependency identifierref="gfd382d8c62ecb14364d1cc26eca0d103"/>
+    </resource>
+    <resource identifier="gfd382d8c62ecb14364d1cc26eca0d103" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g086c440247158c52db479412f4cbcf99/assessment_meta.xml">
+      <file href="g086c440247158c52db479412f4cbcf99/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g086c440247158c52db479412f4cbcf99.xml.qti"/>
+    </resource>
+    <resource identifier="g309963d925bff3c4247e846b48d2df50" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g309963d925bff3c4247e846b48d2df50/assessment_qti.xml"/>
+      <dependency identifierref="ge99380c432723cb910fff378d8a4b5fa"/>
+    </resource>
+    <resource identifier="ge99380c432723cb910fff378d8a4b5fa" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g309963d925bff3c4247e846b48d2df50/assessment_meta.xml">
+      <file href="g309963d925bff3c4247e846b48d2df50/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g309963d925bff3c4247e846b48d2df50.xml.qti"/>
+    </resource>
+    <resource identifier="gbff57a17bb3a465c210883a6c67acb07" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="gbff57a17bb3a465c210883a6c67acb07/assessment_qti.xml"/>
+      <dependency identifierref="ga480fcb9da78ff7d567794b77233d9b7"/>
+    </resource>
+    <resource identifier="ga480fcb9da78ff7d567794b77233d9b7" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gbff57a17bb3a465c210883a6c67acb07/assessment_meta.xml">
+      <file href="gbff57a17bb3a465c210883a6c67acb07/assessment_meta.xml"/>
+      <file href="non_cc_assessments/gbff57a17bb3a465c210883a6c67acb07.xml.qti"/>
+    </resource>
+    <resource identifier="g49fa491fbe9b36e4a8b5456a72297dd8" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g49fa491fbe9b36e4a8b5456a72297dd8.xml.qti">
+      <file href="non_cc_assessments/g49fa491fbe9b36e4a8b5456a72297dd8.xml.qti"/>
+    </resource>
+    <resource type="webcontent" identifier="g08debc73f60900a854a3e2ecfe53d6fc" href="web_resources/Uploaded Media/Screen Shot 2022-05-03 at 1.26.13 PM.png">
+      <file href="web_resources/Uploaded Media/Screen Shot 2022-05-03 at 1.26.13 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g17449c96d1ddc84a1b54dda5f311620b" href="web_resources/Uploaded Media/CodeSignal-Create-Account.jpg">
+      <file href="web_resources/Uploaded Media/CodeSignal-Create-Account.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gb892e9d796377bba8467c60c989922a5" href="web_resources/Uploaded Media/Screen Shot 2022-05-16 at 2.16.58 PM.png">
+      <file href="web_resources/Uploaded Media/Screen Shot 2022-05-16 at 2.16.58 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g52910b095ba871923eb8de6639c71266" href="web_resources/Uploaded Media/Code-Signal-GCA-1.jpg">
+      <file href="web_resources/Uploaded Media/Code-Signal-GCA-1.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g38a7344ee393e04e54f8159aa39b4e57" href="web_resources/Uploaded Media/Code-Signal-GCA-2.jpg">
+      <file href="web_resources/Uploaded Media/Code-Signal-GCA-2.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g97a0321297cd4a811d864bbd41436e19" href="web_resources/Uploaded Media/Picture1.png">
+      <file href="web_resources/Uploaded Media/Picture1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g9ef732bc25fbbbabaf7cc4f3b8dab36a" href="web_resources/Uploaded Media/Picture2.png">
+      <file href="web_resources/Uploaded Media/Picture2.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gbf1739bbb3059ce7250227986d69d8d4" href="web_resources/Uploaded Media/Picture3.png">
+      <file href="web_resources/Uploaded Media/Picture3.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g588e87520c909dfedd36c4dc3434976f" href="web_resources/Uploaded Media/example.png">
+      <file href="web_resources/Uploaded Media/example.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g5abdc9687607a8182aa7ffe816c2b0b6" href="web_resources/Uploaded Media/pinned-example.png">
+      <file href="web_resources/Uploaded Media/pinned-example.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gcd5d4a49da2d9cc65cfd01c1016635e7" href="web_resources/Uploaded Media/project-formatting-example.png">
+      <file href="web_resources/Uploaded Media/project-formatting-example.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gedd0c3f9759641104ea7b83578e7627f" href="web_resources/Uploaded Media/experience-example.png">
+      <file href="web_resources/Uploaded Media/experience-example.png"/>
+    </resource>
+    <resource identifier="gcae17166cca02314d7e8c26f9a751f93" type="imsbasiclti_xmlv1p0">
+      <file href="gcae17166cca02314d7e8c26f9a751f93.xml"/>
+    </resource>
+    <resource identifier="gfd80f09e18bf82ecf8e749afa97590ba" type="imsbasiclti_xmlv1p0">
+      <file href="gfd80f09e18bf82ecf8e749afa97590ba.xml"/>
+    </resource>
+    <resource identifier="gb3127eb2eade86f8f767d8d2171e700a" type="imsbasiclti_xmlv1p0">
+      <file href="gb3127eb2eade86f8f767d8d2171e700a.xml"/>
+    </resource>
+  </resources>
+</manifest>

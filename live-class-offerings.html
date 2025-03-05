@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Live Class Offerings</title>
+    <meta name="identifier" content="g7ed3037a9e05020e1a42918efb69c96d"/>
+    <meta name="editing_roles" content="teachers"/>
+    <meta name="workflow_state" content="active"/>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              primary: '#93005a',
+              secondary: '#00808c',
+              background: '#f5f5f5',
+              textColor: '#333',
+            },
+            maxWidth: {
+              'content': '1200px',
+            },
+          }
+        }
+      }
+    </script>
+    <style type="text/tailwindcss">
+      @layer utilities {
+        .content-section {
+          @apply bg-white p-8 mb-8 rounded-lg shadow-md;
+        }
+        .nav-link {
+          @apply text-textColor no-underline px-5 py-2.5 rounded-md bg-white transition-colors duration-300 hover:bg-primary hover:text-white;
+        }
+        .detail-summary {
+          @apply cursor-pointer text-white bg-secondary p-3 text-lg font-bold;
+        }
+        .detail-content {
+          @apply p-4 bg-white border border-gray-200;
+        }
+      }
+    </style>
+</head>
+<body class="font-[Arial,sans-serif] max-w-content mx-auto p-5 bg-background text-textColor leading-relaxed">
+    <div class="flex gap-5 mb-8">
+        <a href="../DS-S8-content.html" class="nav-link">← Back to Sprint Content</a>
+        <a href="../DS-Unit-2-videos.html" class="nav-link">Unit Videos</a>
+    </div>
+
+    <header class="mb-8">
+        <h1 class="text-3xl font-bold text-primary mb-2">DS Unit 2 Sprint 8</h1>
+        <h2 class="text-2xl font-semibold text-secondary">Live Class Offerings</h2>
+    </header>
+
+    <main class="content-section">
+        <div class="text-center mb-6">
+            <a href="https://app.bloomtech.com/live-events" target="_blank" class="inline-block px-6 py-3 bg-primary text-white font-bold rounded-md hover:bg-opacity-90 transition-colors duration-300">SCHEDULE A LIVE CLASS</a>
+        </div>
+        
+        <p class="mb-6"><strong>BloomTech offers a variety of Live Class options. Please take a moment to review our offerings and schedule the ones that work best for you.</strong></p>
+        
+        <details class="mb-6 rounded overflow-hidden">
+            <summary class="detail-summary">Sprint Reviews</summary>
+            <div class="detail-content">
+                <p class="mb-4"><strong>Sprint Reviews 1-2</strong> are <strong>30-minute live experiences</strong> taught by instructors that are targeted to help you grasp major concepts found in the sprint challenges.</p>
+                <ul class="list-disc pl-6 mb-4">
+                    <li class="mb-2"><strong>Sprint Review 1</strong> will cover a concept in the first two modules;</li>
+                    <li class="mb-2"><strong>Sprint Review 2</strong> will cover a concept in the last two modules.</li>
+                </ul>
+            </div>
+        </details>
+        
+        <details class="mb-6 rounded overflow-hidden">
+            <summary class="detail-summary">Ask an Expert</summary>
+            <div class="detail-content">
+                <p><strong>Ask an Expert</strong> sessions are <strong>30-minute live experiences</strong> staffed by an instructor. Are you stuck on a module and just can't seem to connect the dots? Have a question, and the online searches are getting you nowhere? These are purposefully designed to get you unblocked and unstuck in the BloomTech curriculum.</p>
+            </div>
+        </details>
+        
+        <details class="mb-6 rounded overflow-hidden">
+            <summary class="detail-summary">Code-Alongs</summary>
+            <div class="detail-content">
+                <p><strong>Code-Alongs</strong> are <strong>50-minute live experiences</strong> taught by our expert instructors designed to prepare you for concepts found in the sprint challenges. Code-Alongs are your opportunity to work on complex job-ready problems in a live and engaging environment. You may see them in the Portal later on in your track. Because Code-Alongs delve deeper into a core competency, you will need to come to class prepared to have the best experience.</p>
+            </div>
+        </details>
+        
+        <hr class="my-8 border-primary border-t-2">
+        <p class="text-center text-xl font-bold">Our instructors are excited to see you in class!</p>
+    </main>
+
+    <footer class="mt-10">
+        <nav class="flex justify-between">
+            <a href="how-to-pass-this-sprint.html" class="nav-link">← Previous: How to Pass This Sprint</a>
+            <a href="career-coaching.html" class="nav-link">Next: Career Coaching →</a>
+        </nav>
+    </footer>
+</body>
+</html>
