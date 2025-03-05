@@ -1,18 +1,80 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>CodeSignal Arcade</title>
-<meta name="identifier" content="gea91c4e55069aec4bfc1edcdc400ecf6"/>
-<meta name="editing_roles" content="teachers"/>
-<meta name="workflow_state" content="active"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>CodeSignal Arcade</title>
+    <meta name="identifier" content="gea91c4e55069aec4bfc1edcdc400ecf6"/>
+    <meta name="editing_roles" content="teachers"/>
+    <meta name="workflow_state" content="active"/>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#93005a',
+                        secondary: '#00808c',
+                        background: '#f5f5f5',
+                        textColor: '#333',
+                    },
+                    maxWidth: {
+                        'content': '1200px',
+                    }
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .content-section {
+                @apply bg-white p-8 mb-8 rounded-lg shadow-md;
+            }
+            .nav-link {
+                @apply text-textColor no-underline px-5 py-2.5 rounded-md bg-white transition-colors duration-300 hover:bg-primary hover:text-white;
+            }
+            .video-container {
+                @apply relative pb-[56.25%] h-0 overflow-hidden max-w-full my-5;
+            }
+            .video-container iframe {
+                @apply absolute top-0 left-0 w-full h-full;
+            }
+        }
+    </style>
 </head>
-<body>
-<p><span>There is only one tried and true way to get better at solving the types of technical coding challenges that you will encounter during interviews and will face while trying to land your first technical job:&nbsp;</span><strong>PRACTICE!</strong></p>
-<p>A great way to start practicing is to use the <a class="inline_disabled" href="https://app.codesignal.com/arcade" target="_blank">CodeSignal Arcade&nbsp;</a></p>
-<p><span><strong>What is CodeSignal Arcade? </strong>It is a collection of problems that you can use to help you improve your problem-solving and coding skills. If you can solve 50-60 problems, this will help you to achieve a quality score on the General Code Assessment (GCA)</span></p>
-<p><span>Practice as often as you can - even 10 minutes per day or one challenge per day will help you get the necessary amount of exposure and practice needed.</span></p>
-<p><span>Watch this video to learn more about CodeSignal Arcade.</span></p>
-<hr>
-<p><iframe class="wistia_embed" title="Common-all sprints tracks Intro to CodeSignal Arcade Video" src="https://fast.wistia.net/embed/iframe/qh5w8yqxdl" width="640" height="360" name="wistia_embed" allow="autoplay; fullscreen" loading="lazy"></iframe></p>
+<body class="font-[Arial,sans-serif] max-w-content mx-auto p-5 bg-background text-textColor leading-relaxed">
+    <div class="flex gap-5 mb-8">
+        <a href="../DS-S8-content.html" class="nav-link">← Back to Sprint Content</a>
+        <a href="../DS-Unit-2-videos.html" class="nav-link">Unit Videos</a>
+    </div>
+
+    <header class="mb-8">
+        <h1 class="text-3xl font-bold text-primary mb-2">DS Unit 2 Sprint 8</h1>
+        <h2 class="text-2xl font-semibold text-secondary">CodeSignal Arcade</h2>
+    </header>
+
+    <main class="content-section">
+        <p>There is only one tried and true way to get better at solving the types of technical coding challenges that you will encounter during interviews and will face while trying to land your first technical job: <strong>PRACTICE!</strong></p>
+        
+        <p>A great way to start practicing is to use the <a href="https://app.codesignal.com/arcade" target="_blank" class="text-primary hover:text-secondary underline">CodeSignal Arcade</a></p>
+        
+        <p><strong>What is CodeSignal Arcade?</strong> It is a collection of problems that you can use to help you improve your problem-solving and coding skills. If you can solve 50-60 problems, this will help you to achieve a quality score on the General Code Assessment (GCA)</p>
+        
+        <p>Practice as often as you can - even 10 minutes per day or one challenge per day will help you get the necessary amount of exposure and practice needed.</p>
+        
+        <p>Watch this video to learn more about CodeSignal Arcade.</p>
+        
+        <hr class="my-6 border-gray-200">
+        
+        <div class="video-container">
+            <iframe class="wistia_embed" title="Common-all sprints tracks Intro to CodeSignal Arcade Video" src="https://fast.wistia.net/embed/iframe/qh5w8yqxdl" name="wistia_embed" allow="autoplay; fullscreen" loading="lazy"></iframe>
+        </div>
+    </main>
+
+    <footer class="mt-10">
+        <nav class="flex justify-between">
+            <a href="codesignal-user-interface-overview.html" class="nav-link">← Previous: CodeSignal User Interface Overview</a>
+            <a href="introduction-to-gca.html" class="nav-link">Next: Introduction to GCA →</a>
+        </nav>
+    </footer>
 </body>
 </html>
